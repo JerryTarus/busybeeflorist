@@ -270,6 +270,11 @@ section {
   color: var(--color-primary);
 }
 
+.header .logo #logo {
+  height: 50px;
+  width: 20px;
+}
+
 .header .btn-book-a-table,
 .header .btn-book-a-table:focus {
   font-size: 14px;
